@@ -15,3 +15,5 @@ libreofficearg.sh - Runs Libreoffice from a context menu option on selected file
 Runs as non-root user
 
 To set gui connection on host: xhost +
+
+I don't own any of the install packages
