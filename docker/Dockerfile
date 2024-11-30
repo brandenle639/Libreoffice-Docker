@@ -1,4 +1,4 @@
-FROM appbase:{Your Version Number}
+FROM applicationbase:{Your Version Number}
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBIAN_FRONTEND teletype
 COPY install.sh /install.sh
