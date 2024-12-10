@@ -2,7 +2,7 @@
 Libreoffice Docker container built off "Docker Application Base" and uses "Cups-Server-Docker" for printing
 
 # To Build:
-docker build -it libreoffice:{Version You Want} docker --no-cache
+docker build -t libreoffice:{Version You Want} docker --no-cache
 
 # To configure Cups Print Connection:
 Change the IP and/or the Port number in the client.conf file
